@@ -7,7 +7,7 @@ Dependencies
 ------------
 
   Core poly2tri lib:
-  - Cython (0.14.1)
+  - Cython (0.22)
   
   Testbed:
   - Pygame

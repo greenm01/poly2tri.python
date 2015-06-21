@@ -1,0 +1,7 @@
+recursive-include poly2tri *.h
+recursive-include data *.dat *.dae
+recursive-include src *
+exclude src/p2t.cpp
+include README
+include AUTHORS
+include test.py
